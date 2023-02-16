@@ -1,6 +1,7 @@
 {
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
+        "tsconfigRootDir": "D:/baza/JS/work/BSA/winter/video_catalog_ts/",
         "project": "tsconfig.json",
         "sourceType": "module"
     },
